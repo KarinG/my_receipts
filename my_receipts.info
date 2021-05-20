@@ -1,6 +1,0 @@
-name = My Receipts
-description = Tells CiviCRM CDN Tax Receipts about Eligibility for a Tax Receipt
-dependencies[] = civicrm
-package = CiviCRM
-core = 7.x
-files[] = my_receipts.module
